@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f20e5fcc08b48bb42936ca4c54731e0e, type: 3}
+  m_Name: FireCircle
+  m_EditorClassIdentifier: 
+  name: Fire Circle
+  image: {fileID: 21300000, guid: d1d448653b606684a80c2ba6015f7a44, type: 3}
+  cooldown: 20
+  sound: {fileID: 0}
+  element: 1
+  damage: 1
+  effect: {fileID: 2593413199220077531, guid: 3367946fcc754e74c97516517f5b65dd, type: 3}
+  prefab: {fileID: 2985791160380470774, guid: 14381a9f5ee07a546bd8bd983191b77a, type: 3}
+  duration: 10

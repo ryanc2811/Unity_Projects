@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 8bbf88f2336b5eb498bc1fa2bb31eba6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CrossHair: {fileID: 173226, guid: df2342a101fc54b44811414aaee023ba, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

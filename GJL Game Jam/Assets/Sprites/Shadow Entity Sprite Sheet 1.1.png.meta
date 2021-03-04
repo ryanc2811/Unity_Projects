@@ -1,0 +1,3971 @@
+fileFormatVersion: 2
+guid: 0d2716fc6a8429e4a80696ebe19697c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4861972496466761122
+    second: Shadow Entity Sprite Sheet 1.1_0
+  - first:
+      213: -5289504297642408398
+    second: Shadow Entity Sprite Sheet 1.1_1
+  - first:
+      213: 4660956485255386613
+    second: Shadow Entity Sprite Sheet 1.1_2
+  - first:
+      213: -2129100328020153220
+    second: Shadow Entity Sprite Sheet 1.1_3
+  - first:
+      213: 8958067899374908635
+    second: Shadow Entity Sprite Sheet 1.1_4
+  - first:
+      213: 3446623680373504192
+    second: Shadow Entity Sprite Sheet 1.1_5
+  - first:
+      213: -3689158233113000445
+    second: Shadow Entity Sprite Sheet 1.1_6
+  - first:
+      213: 7803225425464641419
+    second: Shadow Entity Sprite Sheet 1.1_7
+  - first:
+      213: -1469795068926304688
+    second: Shadow Entity Sprite Sheet 1.1_8
+  - first:
+      213: -5859431693670818249
+    second: Shadow Entity Sprite Sheet 1.1_9
+  - first:
+      213: 5754707294567957753
+    second: Shadow Entity Sprite Sheet 1.1_10
+  - first:
+      213: 5430529977504755613
+    second: Shadow Entity Sprite Sheet 1.1_11
+  - first:
+      213: -2444513602220341162
+    second: Shadow Entity Sprite Sheet 1.1_12
+  - first:
+      213: -8967137469471758696
+    second: Shadow Entity Sprite Sheet 1.1_13
+  - first:
+      213: 2285475317510890677
+    second: Shadow Entity Sprite Sheet 1.1_14
+  - first:
+      213: 9104038265932835784
+    second: Shadow Entity Sprite Sheet 1.1_15
+  - first:
+      213: 8829762953884332656
+    second: Shadow Entity Sprite Sheet 1.1_16
+  - first:
+      213: 4145714286104915000
+    second: Shadow Entity Sprite Sheet 1.1_17
+  - first:
+      213: -4173949119979080518
+    second: Shadow Entity Sprite Sheet 1.1_18
+  - first:
+      213: 4948756279282538252
+    second: Shadow Entity Sprite Sheet 1.1_19
+  - first:
+      213: 446197071663452940
+    second: Shadow Entity Sprite Sheet 1.1_20
+  - first:
+      213: -7765237757806326252
+    second: Shadow Entity Sprite Sheet 1.1_21
+  - first:
+      213: 752502103961464049
+    second: Shadow Entity Sprite Sheet 1.1_22
+  - first:
+      213: -1897908116424114251
+    second: Shadow Entity Sprite Sheet 1.1_23
+  - first:
+      213: -665882540719966869
+    second: Shadow Entity Sprite Sheet 1.1_24
+  - first:
+      213: 55594445039547077
+    second: Shadow Entity Sprite Sheet 1.1_25
+  - first:
+      213: 9179082421675004583
+    second: Shadow Entity Sprite Sheet 1.1_26
+  - first:
+      213: 968112595276283600
+    second: Shadow Entity Sprite Sheet 1.1_27
+  - first:
+      213: -2047834647213833349
+    second: Shadow Entity Sprite Sheet 1.1_28
+  - first:
+      213: -4662172688593887621
+    second: Shadow Entity Sprite Sheet 1.1_29
+  - first:
+      213: -7391289804133224532
+    second: Shadow Entity Sprite Sheet 1.1_30
+  - first:
+      213: -6644258593717744530
+    second: Shadow Entity Sprite Sheet 1.1_31
+  - first:
+      213: -731225399961251214
+    second: Shadow Entity Sprite Sheet 1.1_32
+  - first:
+      213: -4633127000639181300
+    second: Shadow Entity Sprite Sheet 1.1_33
+  - first:
+      213: -8504145663440698633
+    second: Shadow Entity Sprite Sheet 1.1_34
+  - first:
+      213: 4397558437554134047
+    second: Shadow Entity Sprite Sheet 1.1_35
+  - first:
+      213: 2180507181315058844
+    second: Shadow Entity Sprite Sheet 1.1_36
+  - first:
+      213: -8851827866633072643
+    second: Shadow Entity Sprite Sheet 1.1_37
+  - first:
+      213: -1240891297491844652
+    second: Shadow Entity Sprite Sheet 1.1_38
+  - first:
+      213: 3801753887551850892
+    second: Shadow Entity Sprite Sheet 1.1_39
+  - first:
+      213: -7287786797753849871
+    second: Shadow Entity Sprite Sheet 1.1_40
+  - first:
+      213: -2283769207338471094
+    second: Shadow Entity Sprite Sheet 1.1_41
+  - first:
+      213: 3458880816357545193
+    second: Shadow Entity Sprite Sheet 1.1_42
+  - first:
+      213: -2574156077920256918
+    second: Shadow Entity Sprite Sheet 1.1_43
+  - first:
+      213: 1048971405926260683
+    second: Shadow Entity Sprite Sheet 1.1_44
+  - first:
+      213: -4515863292344382693
+    second: Shadow Entity Sprite Sheet 1.1_45
+  - first:
+      213: -1495595151767392129
+    second: Shadow Entity Sprite Sheet 1.1_46
+  - first:
+      213: 7050611068332949404
+    second: Shadow Entity Sprite Sheet 1.1_47
+  - first:
+      213: -7511160560425243989
+    second: Shadow Entity Sprite Sheet 1.1_48
+  - first:
+      213: -4270047539191591793
+    second: Shadow Entity Sprite Sheet 1.1_49
+  - first:
+      213: 7311065023558163855
+    second: Shadow Entity Sprite Sheet 1.1_50
+  - first:
+      213: -8133117518905941610
+    second: Shadow Entity Sprite Sheet 1.1_51
+  - first:
+      213: 5940974232851196009
+    second: Shadow Entity Sprite Sheet 1.1_52
+  - first:
+      213: 61542441246416792
+    second: Shadow Entity Sprite Sheet 1.1_53
+  - first:
+      213: -2972723300451893643
+    second: Shadow Entity Sprite Sheet 1.1_54
+  - first:
+      213: 2120071381587905299
+    second: Shadow Entity Sprite Sheet 1.1_55
+  - first:
+      213: 4809164958617450258
+    second: Shadow Entity Sprite Sheet 1.1_56
+  - first:
+      213: -2618854640344608789
+    second: Shadow Entity Sprite Sheet 1.1_57
+  - first:
+      213: -5339662458078524064
+    second: Shadow Entity Sprite Sheet 1.1_58
+  - first:
+      213: 3370208666539349024
+    second: Shadow Entity Sprite Sheet 1.1_59
+  - first:
+      213: 4356327845874819731
+    second: Shadow Entity Sprite Sheet 1.1_60
+  - first:
+      213: 3125086968052140704
+    second: Shadow Entity Sprite Sheet 1.1_61
+  - first:
+      213: 6586330629448484088
+    second: Shadow Entity Sprite Sheet 1.1_62
+  - first:
+      213: -1966490356193709775
+    second: Shadow Entity Sprite Sheet 1.1_63
+  - first:
+      213: 1765203309848202122
+    second: Shadow Entity Sprite Sheet 1.1_64
+  - first:
+      213: -1586422584123981344
+    second: Shadow Entity Sprite Sheet 1.1_65
+  - first:
+      213: 1929636448935997747
+    second: Shadow Entity Sprite Sheet 1.1_66
+  - first:
+      213: 6210756489292413005
+    second: Shadow Entity Sprite Sheet 1.1_67
+  - first:
+      213: 8941048509455199953
+    second: Shadow Entity Sprite Sheet 1.1_68
+  - first:
+      213: 7090543436768092003
+    second: Shadow Entity Sprite Sheet 1.1_69
+  - first:
+      213: 8360575027124436140
+    second: Shadow Entity Sprite Sheet 1.1_70
+  - first:
+      213: -1915143212449227281
+    second: Shadow Entity Sprite Sheet 1.1_71
+  - first:
+      213: 3352762154250366523
+    second: Shadow Entity Sprite Sheet 1.1_72
+  - first:
+      213: 6918854008575229045
+    second: Shadow Entity Sprite Sheet 1.1_73
+  - first:
+      213: 4180726192324255493
+    second: Shadow Entity Sprite Sheet 1.1_74
+  - first:
+      213: -1054170338477009096
+    second: Shadow Entity Sprite Sheet 1.1_75
+  - first:
+      213: -1470051580172786767
+    second: Shadow Entity Sprite Sheet 1.1_76
+  - first:
+      213: -2546605048595044805
+    second: Shadow Entity Sprite Sheet 1.1_77
+  - first:
+      213: -7988818410030391548
+    second: Shadow Entity Sprite Sheet 1.1_78
+  - first:
+      213: 6033327221480360927
+    second: Shadow Entity Sprite Sheet 1.1_79
+  - first:
+      213: 1124611728811430983
+    second: Shadow Entity Sprite Sheet 1.1_80
+  - first:
+      213: -1134074965769391864
+    second: Shadow Entity Sprite Sheet 1.1_81
+  - first:
+      213: -114516296045453006
+    second: Shadow Entity Sprite Sheet 1.1_82
+  - first:
+      213: 2945039202342829625
+    second: Shadow Entity Sprite Sheet 1.1_83
+  - first:
+      213: -759145780316503676
+    second: Shadow Entity Sprite Sheet 1.1_84
+  - first:
+      213: 533391814678025071
+    second: Shadow Entity Sprite Sheet 1.1_85
+  - first:
+      213: 3329416687936357810
+    second: Shadow Entity Sprite Sheet 1.1_86
+  - first:
+      213: 2264558062418695652
+    second: Shadow Entity Sprite Sheet 1.1_87
+  - first:
+      213: -2247343286436712692
+    second: Shadow Entity Sprite Sheet 1.1_88
+  - first:
+      213: 5014300071104366888
+    second: Shadow Entity Sprite Sheet 1.1_89
+  - first:
+      213: 8549480774541572276
+    second: Shadow Entity Sprite Sheet 1.1_90
+  - first:
+      213: 494681562141728536
+    second: Shadow Entity Sprite Sheet 1.1_91
+  - first:
+      213: 5458561907399617349
+    second: Shadow Entity Sprite Sheet 1.1_92
+  - first:
+      213: 8992739017097995300
+    second: Shadow Entity Sprite Sheet 1.1_93
+  - first:
+      213: 3937208656964090721
+    second: Shadow Entity Sprite Sheet 1.1_94
+  - first:
+      213: -4661953282118548761
+    second: Shadow Entity Sprite Sheet 1.1_95
+  - first:
+      213: 9045771457034685988
+    second: Shadow Entity Sprite Sheet 1.1_96
+  - first:
+      213: -6645146956382417
+    second: Shadow Entity Sprite Sheet 1.1_97
+  - first:
+      213: 7395729920294720796
+    second: Shadow Entity Sprite Sheet 1.1_98
+  - first:
+      213: -2045665838949296366
+    second: Shadow Entity Sprite Sheet 1.1_99
+  - first:
+      213: -699365194512741367
+    second: Shadow Entity Sprite Sheet 1.1_100
+  - first:
+      213: -4184218137804005863
+    second: Shadow Entity Sprite Sheet 1.1_101
+  - first:
+      213: 3469519255115008890
+    second: Shadow Entity Sprite Sheet 1.1_102
+  - first:
+      213: -6619212297006098390
+    second: Shadow Entity Sprite Sheet 1.1_103
+  - first:
+      213: -4197140131008423329
+    second: Shadow Entity Sprite Sheet 1.1_104
+  - first:
+      213: 7300032742093826787
+    second: Shadow Entity Sprite Sheet 1.1_105
+  - first:
+      213: 2064761141624583624
+    second: Shadow Entity Sprite Sheet 1.1_106
+  - first:
+      213: 4986239000250438845
+    second: Shadow Entity Sprite Sheet 1.1_107
+  - first:
+      213: 6525901930396655310
+    second: Shadow Entity Sprite Sheet 1.1_108
+  - first:
+      213: 7538724078863973778
+    second: Shadow Entity Sprite Sheet 1.1_109
+  - first:
+      213: -8432885983085142938
+    second: Shadow Entity Sprite Sheet 1.1_110
+  - first:
+      213: 3490582097240077932
+    second: Shadow Entity Sprite Sheet 1.1_111
+  - first:
+      213: -1350020260446393091
+    second: Shadow Entity Sprite Sheet 1.1_112
+  - first:
+      213: 5881557852868633368
+    second: Shadow Entity Sprite Sheet 1.1_113
+  - first:
+      213: 8149467000367637739
+    second: Shadow Entity Sprite Sheet 1.1_114
+  - first:
+      213: -326113910530461932
+    second: Shadow Entity Sprite Sheet 1.1_115
+  - first:
+      213: -7675467812344277823
+    second: Shadow Entity Sprite Sheet 1.1_116
+  - first:
+      213: -8469987632410673468
+    second: Shadow Entity Sprite Sheet 1.1_117
+  - first:
+      213: -940944483565953701
+    second: Shadow Entity Sprite Sheet 1.1_118
+  - first:
+      213: 3717340817010914762
+    second: Shadow Entity Sprite Sheet 1.1_119
+  - first:
+      213: -5023335733519103054
+    second: Shadow Entity Sprite Sheet 1.1_120
+  - first:
+      213: -2575516802100833280
+    second: Shadow Entity Sprite Sheet 1.1_121
+  - first:
+      213: -8221993352397503337
+    second: Shadow Entity Sprite Sheet 1.1_122
+  - first:
+      213: -6854140233872578717
+    second: Shadow Entity Sprite Sheet 1.1_123
+  - first:
+      213: -4264607846923800210
+    second: Shadow Entity Sprite Sheet 1.1_124
+  - first:
+      213: -829590612662482448
+    second: Shadow Entity Sprite Sheet 1.1_125
+  - first:
+      213: -7201654570512257616
+    second: Shadow Entity Sprite Sheet 1.1_126
+  - first:
+      213: 2434259427663312760
+    second: Shadow Entity Sprite Sheet 1.1_127
+  - first:
+      213: 3757710846499532873
+    second: Shadow Entity Sprite Sheet 1.1_128
+  - first:
+      213: -1388559654124506922
+    second: Shadow Entity Sprite Sheet 1.1_129
+  - first:
+      213: -2940644604367312468
+    second: Shadow Entity Sprite Sheet 1.1_130
+  - first:
+      213: -8868651416425788007
+    second: Shadow Entity Sprite Sheet 1.1_131
+  - first:
+      213: 5500444040332703269
+    second: Shadow Entity Sprite Sheet 1.1_132
+  - first:
+      213: -1916842732395299705
+    second: Shadow Entity Sprite Sheet 1.1_133
+  - first:
+      213: 3826622096561393543
+    second: Shadow Entity Sprite Sheet 1.1_134
+  - first:
+      213: -4856031413556174819
+    second: Shadow Entity Sprite Sheet 1.1_135
+  - first:
+      213: -3195091871885909764
+    second: Shadow Entity Sprite Sheet 1.1_136
+  - first:
+      213: -520141675584188847
+    second: Shadow Entity Sprite Sheet 1.1_137
+  - first:
+      213: -3583532865406846612
+    second: Shadow Entity Sprite Sheet 1.1_138
+  - first:
+      213: -3357801971169817567
+    second: Shadow Entity Sprite Sheet 1.1_139
+  - first:
+      213: 7535174209032455682
+    second: Shadow Entity Sprite Sheet 1.1_140
+  - first:
+      213: 7017933518069888850
+    second: Shadow Entity Sprite Sheet 1.1_141
+  - first:
+      213: 2958249738816270382
+    second: Shadow Entity Sprite Sheet 1.1_142
+  - first:
+      213: 735757635903216264
+    second: Shadow Entity Sprite Sheet 1.1_143
+  - first:
+      213: 9115635918618337168
+    second: Shadow Entity Sprite Sheet 1.1_144
+  - first:
+      213: 7119829179475000789
+    second: Shadow Entity Sprite Sheet 1.1_145
+  - first:
+      213: 5489305750000987151
+    second: Shadow Entity Sprite Sheet 1.1_146
+  - first:
+      213: -8128074339966681444
+    second: Shadow Entity Sprite Sheet 1.1_147
+  - first:
+      213: -5540681768903018315
+    second: Shadow Entity Sprite Sheet 1.1_148
+  - first:
+      213: 248180584597282314
+    second: Shadow Entity Sprite Sheet 1.1_149
+  - first:
+      213: 3639782657916678009
+    second: Shadow Entity Sprite Sheet 1.1_150
+  - first:
+      213: 7532589745409321796
+    second: Shadow Entity Sprite Sheet 1.1_151
+  - first:
+      213: 5858809292158535207
+    second: Shadow Entity Sprite Sheet 1.1_152
+  - first:
+      213: 6758747908573418624
+    second: Shadow Entity Sprite Sheet 1.1_153
+  - first:
+      213: -540719278398680631
+    second: Shadow Entity Sprite Sheet 1.1_154
+  - first:
+      213: -7338495803878379277
+    second: Shadow Entity Sprite Sheet 1.1_155
+  - first:
+      213: -4271567217318489171
+    second: Shadow Entity Sprite Sheet 1.1_156
+  - first:
+      213: 2320525235370760834
+    second: Shadow Entity Sprite Sheet 1.1_157
+  - first:
+      213: 4005106152036779212
+    second: Shadow Entity Sprite Sheet 1.1_158
+  - first:
+      213: -8815102445650674579
+    second: Shadow Entity Sprite Sheet 1.1_159
+  - first:
+      213: 643201852193727295
+    second: Shadow Entity Sprite Sheet 1.1_160
+  - first:
+      213: 3500587592217293613
+    second: Shadow Entity Sprite Sheet 1.1_161
+  - first:
+      213: -3659273480569718398
+    second: Shadow Entity Sprite Sheet 1.1_162
+  - first:
+      213: -650372745825503702
+    second: Shadow Entity Sprite Sheet 1.1_163
+  - first:
+      213: 7224422898363619101
+    second: Shadow Entity Sprite Sheet 1.1_164
+  - first:
+      213: -8149218528081919344
+    second: Shadow Entity Sprite Sheet 1.1_165
+  - first:
+      213: 5404902209260826250
+    second: Shadow Entity Sprite Sheet 1.1_166
+  - first:
+      213: 5121938446749909129
+    second: Shadow Entity Sprite Sheet 1.1_167
+  - first:
+      213: 1384443509403623658
+    second: Shadow Entity Sprite Sheet 1.1_168
+  - first:
+      213: 6759745980559817332
+    second: Shadow Entity Sprite Sheet 1.1_169
+  - first:
+      213: -648222535290228352
+    second: Shadow Entity Sprite Sheet 1.1_170
+  - first:
+      213: 908207751770957272
+    second: Shadow Entity Sprite Sheet 1.1_171
+  - first:
+      213: -4991512869826175996
+    second: Shadow Entity Sprite Sheet 1.1_172
+  - first:
+      213: -9196207348459430998
+    second: Shadow Entity Sprite Sheet 1.1_173
+  - first:
+      213: 9006875586374928571
+    second: Shadow Entity Sprite Sheet 1.1_174
+  - first:
+      213: -415372440031419019
+    second: Shadow Entity Sprite Sheet 1.1_175
+  - first:
+      213: 4528518824264046193
+    second: Shadow Entity Sprite Sheet 1.1_176
+  - first:
+      213: -736483293629430098
+    second: Shadow Entity Sprite Sheet 1.1_177
+  - first:
+      213: 1149574843426827389
+    second: Shadow Entity Sprite Sheet 1.1_178
+  - first:
+      213: -2098150590052681553
+    second: Shadow Entity Sprite Sheet 1.1_179
+  - first:
+      213: 959752392531086991
+    second: Shadow Entity Sprite Sheet 1.1_180
+  - first:
+      213: 8331965488368995303
+    second: Shadow Entity Sprite Sheet 1.1_181
+  - first:
+      213: -7185981274770848185
+    second: Shadow Entity Sprite Sheet 1.1_182
+  - first:
+      213: 7205095034160420290
+    second: Shadow Entity Sprite Sheet 1.1_183
+  - first:
+      213: -8270199688283758338
+    second: Shadow Entity Sprite Sheet 1.1_184
+  - first:
+      213: 363476503897005590
+    second: Shadow Entity Sprite Sheet 1.1_185
+  - first:
+      213: -1982419723772282560
+    second: Shadow Entity Sprite Sheet 1.1_186
+  - first:
+      213: 393853934722739372
+    second: Shadow Entity Sprite Sheet 1.1_187
+  - first:
+      213: -1895834347634159672
+    second: Shadow Entity Sprite Sheet 1.1_188
+  - first:
+      213: 653660871228912444
+    second: Shadow Entity Sprite Sheet 1.1_189
+  - first:
+      213: -931640818722323927
+    second: Shadow Entity Sprite Sheet 1.1_190
+  - first:
+      213: -8439796368181320062
+    second: Shadow Entity Sprite Sheet 1.1_191
+  - first:
+      213: 3454598288704997019
+    second: Shadow Entity Sprite Sheet 1.1_192
+  - first:
+      213: -3322402280961705869
+    second: Shadow Entity Sprite Sheet 1.1_193
+  - first:
+      213: -8024697909950428013
+    second: Shadow Entity Sprite Sheet 1.1_194
+  - first:
+      213: 6659869055538531447
+    second: Shadow Entity Sprite Sheet 1.1_195
+  - first:
+      213: 7876857258767469988
+    second: Shadow Entity Sprite Sheet 1.1_196
+  - first:
+      213: -7693375413473911858
+    second: Shadow Entity Sprite Sheet 1.1_197
+  - first:
+      213: 892709977370893507
+    second: Shadow Entity Sprite Sheet 1.1_198
+  - first:
+      213: -5668070872379339728
+    second: Shadow Entity Sprite Sheet 1.1_199
+  - first:
+      213: -8863232146545003382
+    second: Shadow Entity Sprite Sheet 1.1_200
+  - first:
+      213: -3653240966285924226
+    second: Shadow Entity Sprite Sheet 1.1_201
+  - first:
+      213: -4088740173579220199
+    second: Shadow Entity Sprite Sheet 1.1_202
+  - first:
+      213: -2489520468181342457
+    second: Shadow Entity Sprite Sheet 1.1_0
+  - first:
+      213: 6888517210746416429
+    second: Shadow Entity Sprite Sheet 1.1_1
+  - first:
+      213: 5115379794093649458
+    second: Shadow Entity Sprite Sheet 1.1_2
+  - first:
+      213: 4049904974085050102
+    second: Shadow Entity Sprite Sheet 1.1_3
+  - first:
+      213: 7915989682101872531
+    second: Shadow Entity Sprite Sheet 1.1_4
+  - first:
+      213: -5948470745797530237
+    second: Shadow Entity Sprite Sheet 1.1_5
+  - first:
+      213: 8482186686705363897
+    second: Shadow Entity Sprite Sheet 1.1_6
+  - first:
+      213: 3817924640595580276
+    second: Shadow Entity Sprite Sheet 1.1_7
+  - first:
+      213: -7870391370333706802
+    second: Shadow Entity Sprite Sheet 1.1_8
+  - first:
+      213: 2263729413696957038
+    second: Shadow Entity Sprite Sheet 1.1_9
+  - first:
+      213: -2102609113339147082
+    second: Shadow Entity Sprite Sheet 1.1_10
+  - first:
+      213: -6513890738675342629
+    second: Shadow Entity Sprite Sheet 1.1_11
+  - first:
+      213: 5632687387646909279
+    second: Shadow Entity Sprite Sheet 1.1_12
+  - first:
+      213: -2216118701046814736
+    second: Shadow Entity Sprite Sheet 1.1_13
+  - first:
+      213: 5921945849208883635
+    second: Shadow Entity Sprite Sheet 1.1_14
+  - first:
+      213: -8354520734399544345
+    second: Shadow Entity Sprite Sheet 1.1_15
+  - first:
+      213: 2542032092919137678
+    second: Shadow Entity Sprite Sheet 1.1_16
+  - first:
+      213: -1017822297693021290
+    second: Shadow Entity Sprite Sheet 1.1_17
+  - first:
+      213: -5304217497560673544
+    second: Shadow Entity Sprite Sheet 1.1_18
+  - first:
+      213: -7444746897056316379
+    second: Shadow Entity Sprite Sheet 1.1_19
+  - first:
+      213: -7512721994016729320
+    second: Shadow Entity Sprite Sheet 1.1_20
+  - first:
+      213: -8798896885938797936
+    second: Shadow Entity Sprite Sheet 1.1_21
+  - first:
+      213: 8209683248419102501
+    second: Shadow Entity Sprite Sheet 1.1_22
+  - first:
+      213: -1404498913537479516
+    second: Shadow Entity Sprite Sheet 1.1_23
+  - first:
+      213: 1348172311213142173
+    second: Shadow Entity Sprite Sheet 1.1_24
+  - first:
+      213: 2858875295816524400
+    second: Shadow Entity Sprite Sheet 1.1_25
+  - first:
+      213: -8853064468135324033
+    second: Shadow Entity Sprite Sheet 1.1_26
+  - first:
+      213: -3927518725083235111
+    second: Shadow Entity Sprite Sheet 1.1_27
+  - first:
+      213: 6685772350423795979
+    second: Shadow Entity Sprite Sheet 1.1_28
+  - first:
+      213: -1924270758330259403
+    second: Shadow Entity Sprite Sheet 1.1_29
+  - first:
+      213: -2138464648940640297
+    second: Shadow Entity Sprite Sheet 1.1_30
+  - first:
+      213: -3029635910790875101
+    second: Shadow Entity Sprite Sheet 1.1_31
+  - first:
+      213: 3203653897630113163
+    second: Shadow Entity Sprite Sheet 1.1_32
+  - first:
+      213: 5413053095632802986
+    second: Shadow Entity Sprite Sheet 1.1_33
+  - first:
+      213: -2019609919964129244
+    second: Shadow Entity Sprite Sheet 1.1_34
+  - first:
+      213: 5891697691821040095
+    second: Shadow Entity Sprite Sheet 1.1_35
+  - first:
+      213: -1956709492747544005
+    second: Shadow Entity Sprite Sheet 1.1_36
+  - first:
+      213: -4740532040378968247
+    second: Shadow Entity Sprite Sheet 1.1_37
+  - first:
+      213: -3490940321338647884
+    second: Shadow Entity Sprite Sheet 1.1_38
+  - first:
+      213: -1509384036933611620
+    second: Shadow Entity Sprite Sheet 1.1_39
+  - first:
+      213: -1380385346238540889
+    second: Shadow Entity Sprite Sheet 1.1_40
+  - first:
+      213: 3910226534412619867
+    second: Shadow Entity Sprite Sheet 1.1_41
+  - first:
+      213: -319528960741328982
+    second: Shadow Entity Sprite Sheet 1.1_42
+  - first:
+      213: -15981297221850591
+    second: Shadow Entity Sprite Sheet 1.1_43
+  - first:
+      213: -3606549133522724499
+    second: Shadow Entity Sprite Sheet 1.1_44
+  - first:
+      213: -8229707961434390369
+    second: Shadow Entity Sprite Sheet 1.1_45
+  - first:
+      213: 2591141126226029138
+    second: Shadow Entity Sprite Sheet 1.1_46
+  - first:
+      213: 9077911924193895905
+    second: Shadow Entity Sprite Sheet 1.1_47
+  - first:
+      213: -7654983556719863946
+    second: Shadow Entity Sprite Sheet 1.1_48
+  - first:
+      213: -5915643660179857638
+    second: Shadow Entity Sprite Sheet 1.1_49
+  - first:
+      213: -7704720073385671118
+    second: Shadow Entity Sprite Sheet 1.1_50
+  - first:
+      213: -6580268512155635217
+    second: Shadow Entity Sprite Sheet 1.1_51
+  - first:
+      213: 2385833579563679871
+    second: Shadow Entity Sprite Sheet 1.1_52
+  - first:
+      213: 6838796937819326781
+    second: Shadow Entity Sprite Sheet 1.1_53
+  - first:
+      213: 2410972904364939347
+    second: Shadow Entity Sprite Sheet 1.1_54
+  - first:
+      213: 7592265700460900866
+    second: Shadow Entity Sprite Sheet 1.1_55
+  - first:
+      213: 3392067305294294504
+    second: Shadow Entity Sprite Sheet 1.1_56
+  - first:
+      213: -2605542142554876045
+    second: Shadow Entity Sprite Sheet 1.1_57
+  - first:
+      213: 3500529548853161670
+    second: Shadow Entity Sprite Sheet 1.1_58
+  - first:
+      213: -6018814113722256175
+    second: Shadow Entity Sprite Sheet 1.1_59
+  - first:
+      213: -7276318634193673425
+    second: Shadow Entity Sprite Sheet 1.1_60
+  - first:
+      213: 6835068911680889861
+    second: Shadow Entity Sprite Sheet 1.1_61
+  - first:
+      213: 8275421203933534599
+    second: Shadow Entity Sprite Sheet 1.1_62
+  - first:
+      213: 7734591495539326021
+    second: Shadow Entity Sprite Sheet 1.1_63
+  - first:
+      213: -4116414888019554024
+    second: Shadow Entity Sprite Sheet 1.1_64
+  - first:
+      213: 7710608551364424285
+    second: Shadow Entity Sprite Sheet 1.1_65
+  - first:
+      213: -7694339077384678250
+    second: Shadow Entity Sprite Sheet 1.1_66
+  - first:
+      213: -6266807488311364827
+    second: Shadow Entity Sprite Sheet 1.1_67
+  - first:
+      213: 6493164096606875734
+    second: Shadow Entity Sprite Sheet 1.1_68
+  - first:
+      213: -1790485214214416840
+    second: Shadow Entity Sprite Sheet 1.1_69
+  - first:
+      213: 7078419094047010191
+    second: Shadow Entity Sprite Sheet 1.1_70
+  - first:
+      213: -1377461564200704324
+    second: Shadow Entity Sprite Sheet 1.1_71
+  - first:
+      213: -3549219667883128520
+    second: Shadow Entity Sprite Sheet 1.1_72
+  - first:
+      213: 5368355225869731314
+    second: Shadow Entity Sprite Sheet 1.1_73
+  - first:
+      213: 3330927810694243426
+    second: Shadow Entity Sprite Sheet 1.1_74
+  - first:
+      213: 1120267875220660701
+    second: Shadow Entity Sprite Sheet 1.1_75
+  - first:
+      213: -3693499324664087997
+    second: Shadow Entity Sprite Sheet 1.1_76
+  - first:
+      213: 1073692644247750705
+    second: Shadow Entity Sprite Sheet 1.1_77
+  - first:
+      213: 666883163766372436
+    second: Shadow Entity Sprite Sheet 1.1_78
+  - first:
+      213: -1066100970786757829
+    second: Shadow Entity Sprite Sheet 1.1_79
+  - first:
+      213: 1855137681873107841
+    second: Shadow Entity Sprite Sheet 1.1_80
+  - first:
+      213: -1091227633773985918
+    second: Shadow Entity Sprite Sheet 1.1_81
+  - first:
+      213: -4357753529192862275
+    second: Shadow Entity Sprite Sheet 1.1_82
+  - first:
+      213: 7247057108481503107
+    second: Shadow Entity Sprite Sheet 1.1_83
+  - first:
+      213: -8351016264065842712
+    second: Shadow Entity Sprite Sheet 1.1_84
+  - first:
+      213: -3995441042410436630
+    second: Shadow Entity Sprite Sheet 1.1_85
+  - first:
+      213: 3732694468541310482
+    second: Shadow Entity Sprite Sheet 1.1_86
+  - first:
+      213: 2882301009836910663
+    second: Shadow Entity Sprite Sheet 1.1_87
+  - first:
+      213: -6670087238220427270
+    second: Shadow Entity Sprite Sheet 1.1_88
+  - first:
+      213: 6806351168616750612
+    second: Shadow Entity Sprite Sheet 1.1_89
+  - first:
+      213: 4564377714611732108
+    second: Shadow Entity Sprite Sheet 1.1_90
+  - first:
+      213: -5134007314939046600
+    second: Shadow Entity Sprite Sheet 1.1_91
+  - first:
+      213: -6579600252123881479
+    second: Shadow Entity Sprite Sheet 1.1_92
+  - first:
+      213: -5072550903649979636
+    second: Shadow Entity Sprite Sheet 1.1_93
+  - first:
+      213: -5343210388056410319
+    second: Shadow Entity Sprite Sheet 1.1_94
+  - first:
+      213: -7199676150087430163
+    second: Shadow Entity Sprite Sheet 1.1_95
+  - first:
+      213: -8491081293246043032
+    second: Shadow Entity Sprite Sheet 1.1_96
+  - first:
+      213: -9047043198289396825
+    second: Shadow Entity Sprite Sheet 1.1_97
+  - first:
+      213: 4123426952761302277
+    second: Shadow Entity Sprite Sheet 1.1_98
+  - first:
+      213: 1865734787776824028
+    second: Shadow Entity Sprite Sheet 1.1_99
+  - first:
+      213: 5685358838888124500
+    second: Shadow Entity Sprite Sheet 1.1_100
+  - first:
+      213: 4870782500491482175
+    second: Shadow Entity Sprite Sheet 1.1_101
+  - first:
+      213: 8578231156438743483
+    second: Shadow Entity Sprite Sheet 1.1_102
+  - first:
+      213: 1412516169454354110
+    second: Shadow Entity Sprite Sheet 1.1_103
+  - first:
+      213: 2006962219322760698
+    second: Shadow Entity Sprite Sheet 1.1_104
+  - first:
+      213: -9123866341085608522
+    second: Shadow Entity Sprite Sheet 1.1_105
+  - first:
+      213: -3454891411481284268
+    second: Shadow Entity Sprite Sheet 1.1_106
+  - first:
+      213: -146320918440011545
+    second: Shadow Entity Sprite Sheet 1.1_107
+  - first:
+      213: -8321943562172845421
+    second: Shadow Entity Sprite Sheet 1.1_108
+  - first:
+      213: -2076377843156671430
+    second: Shadow Entity Sprite Sheet 1.1_109
+  - first:
+      213: 5161810333196893510
+    second: Shadow Entity Sprite Sheet 1.1_110
+  - first:
+      213: 4844562737975669421
+    second: Shadow Entity Sprite Sheet 1.1_111
+  - first:
+      213: -3040186069566358156
+    second: Shadow Entity Sprite Sheet 1.1_112
+  - first:
+      213: 3204891820419769493
+    second: Shadow Entity Sprite Sheet 1.1_113
+  - first:
+      213: 2128492048959604706
+    second: Shadow Entity Sprite Sheet 1.1_114
+  - first:
+      213: 9083691816417572113
+    second: Shadow Entity Sprite Sheet 1.1_115
+  - first:
+      213: 6325630583453523168
+    second: Shadow Entity Sprite Sheet 1.1_116
+  - first:
+      213: -1262505258984071310
+    second: Shadow Entity Sprite Sheet 1.1_117
+  - first:
+      213: -9113426316355369378
+    second: Shadow Entity Sprite Sheet 1.1_118
+  - first:
+      213: 1150593447912909571
+    second: Shadow Entity Sprite Sheet 1.1_119
+  - first:
+      213: -2056037698039742347
+    second: Shadow Entity Sprite Sheet 1.1_120
+  - first:
+      213: -4474717081175719853
+    second: Shadow Entity Sprite Sheet 1.1_121
+  - first:
+      213: -3644765395559011073
+    second: Shadow Entity Sprite Sheet 1.1_122
+  - first:
+      213: -3987668166978456196
+    second: Shadow Entity Sprite Sheet 1.1_123
+  - first:
+      213: 1918595983787197066
+    second: Shadow Entity Sprite Sheet 1.1_124
+  - first:
+      213: 4921987035520194492
+    second: Shadow Entity Sprite Sheet 1.1_125
+  - first:
+      213: 4581887859039272668
+    second: Shadow Entity Sprite Sheet 1.1_126
+  - first:
+      213: 8668016227451985546
+    second: Shadow Entity Sprite Sheet 1.1_127
+  - first:
+      213: -7419867791107670428
+    second: Shadow Entity Sprite Sheet 1.1_128
+  - first:
+      213: -4810676654890965997
+    second: Shadow Entity Sprite Sheet 1.1_129
+  - first:
+      213: -4174951055286708384
+    second: Shadow Entity Sprite Sheet 1.1_130
+  - first:
+      213: 8881512824837408302
+    second: Shadow Entity Sprite Sheet 1.1_131
+  - first:
+      213: -376012900882672210
+    second: Shadow Entity Sprite Sheet 1.1_132
+  - first:
+      213: -8623891895393988929
+    second: Shadow Entity Sprite Sheet 1.1_133
+  - first:
+      213: -9029755178062037461
+    second: Shadow Entity Sprite Sheet 1.1_134
+  - first:
+      213: -8143718165599321850
+    second: Shadow Entity Sprite Sheet 1.1_203
+  - first:
+      213: -6928241684347335183
+    second: Shadow Entity Sprite Sheet 1.1_204
+  - first:
+      213: -4543736403860421991
+    second: Shadow Entity Sprite Sheet 1.1_205
+  - first:
+      213: -8341489521158675933
+    second: Shadow Entity Sprite Sheet 1.1_206
+  - first:
+      213: -1980404908767767439
+    second: Shadow Entity Sprite Sheet 1.1_207
+  - first:
+      213: -3851822097847550929
+    second: Shadow Entity Sprite Sheet 1.1_208
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5de97c932397340800000000000000
+      internalID: 4861972496466761122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2364f15cdd7e796b0800000000000000
+      internalID: -5289504297642408398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f553318a3b0fa040800000000000000
+      internalID: 4660956485255386613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ce039388ae372e0800000000000000
+      internalID: -2129100328020153220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd43218ea43715c70800000000000000
+      internalID: 8958067899374908635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_5
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8bc1fe9fdd4df20800000000000000
+      internalID: 3446623680373504192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_6
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306871b022a7dccc0800000000000000
+      internalID: -3689158233113000445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_7
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87cd136e20aa4c60800000000000000
+      internalID: 7803225425464641419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_8
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ed6001c2d3a9be0800000000000000
+      internalID: -1469795068926304688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_9
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ed5115bed1faea0800000000000000
+      internalID: -5859431693670818249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_10
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4821f6bc3dcdf40800000000000000
+      internalID: 5754707294567957753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fe74b0e3e1d5b40800000000000000
+      internalID: 5430529977504755613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658cb0394d7531ed0800000000000000
+      internalID: -2444513602220341162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8966a004bf35e8380800000000000000
+      internalID: -8967137469471758696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4e82b31b3a7bf10800000000000000
+      internalID: 2285475317510890677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_15
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb6d7e419a085e70800000000000000
+      internalID: 9104038265932835784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_16
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072fd2ddf9e998a70800000000000000
+      internalID: 8829762953884332656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_17
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cab83ad29888930800000000000000
+      internalID: 4145714286104915000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_18
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4b711d3672316c0800000000000000
+      internalID: -4173949119979080518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_19
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c079e9acd938da440800000000000000
+      internalID: 4948756279282538252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_20
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03d1546fd5313600800000000000000
+      internalID: 446197071663452940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_21
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ec089b6655c3490800000000000000
+      internalID: -7765237757806326252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_22
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc6b573dac617a00800000000000000
+      internalID: 752502103961464049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_23
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfb538af9649a5e0800000000000000
+      internalID: -1897908116424114251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_24
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6570427b5f42c6f0800000000000000
+      internalID: -665882540719966869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_25
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2311c6ad285c000800000000000000
+      internalID: 55594445039547077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_26
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a298f364d6a26f70800000000000000
+      internalID: 9179082421675004583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_27
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de3600b64d6f6d00800000000000000
+      internalID: 968112595276283600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_28
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73051efc31a493e0800000000000000
+      internalID: -2047834647213833349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_29
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e55d614a2ac4fb0800000000000000
+      internalID: -4662172688593887621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_30
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf2ca8751ddc6990800000000000000
+      internalID: -7391289804133224532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_31
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c0e95030adac3a0800000000000000
+      internalID: -6644258593717744530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_32
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27211987f5a2ad5f0800000000000000
+      internalID: -731225399961251214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_33
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e61af4a83d3bfb0800000000000000
+      internalID: -4633127000639181300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_34
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2407473943bf980800000000000000
+      internalID: -8504145663440698633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_35
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c9f658914470d30800000000000000
+      internalID: 4397558437554134047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_36
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ce8748ab7b24e10800000000000000
+      internalID: 2180507181315058844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_37
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff8e6c447df72580800000000000000
+      internalID: -8851827866633072643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_38
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1002080f777cee0800000000000000
+      internalID: -1240891297491844652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_39
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c890df6a40b82c430800000000000000
+      internalID: 3801753887551850892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_40
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7a91115849cda90800000000000000
+      internalID: -7287786797753849871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_41
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a417d9f710c6e40e0800000000000000
+      internalID: -2283769207338471094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_42
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4976bc6c9600030800000000000000
+      internalID: 3458880816357545193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_43
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c76238fa2c64cd0800000000000000
+      internalID: -2574156077920256918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_44
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfd6cd9fe1be8e00800000000000000
+      internalID: 1048971405926260683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_45
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b469df24e6451c0800000000000000
+      internalID: -4515863292344382693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70bb1b22249e3be0800000000000000
+      internalID: -1495595151767392129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_47
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f3c61396dc8d160800000000000000
+      internalID: 7050611068332949404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_48
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaede0244ff2c790800000000000000
+      internalID: -7511160560425243989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_49
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c4474036ebdb4c0800000000000000
+      internalID: -4270047539191591793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_50
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d97fa37ee167560800000000000000
+      internalID: 7311065023558163855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_51
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691ea1925bc512f80800000000000000
+      internalID: -8133117518905941610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_52
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96828d09694927250800000000000000
+      internalID: 5940974232851196009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_53
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f5a153684aad000800000000000000
+      internalID: 61542441246416792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_54
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eb90d88e3ceb6d0800000000000000
+      internalID: -2972723300451893643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_55
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bc40e50b10c6d10800000000000000
+      internalID: 2120071381587905299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_56
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21736a0cc069db240800000000000000
+      internalID: 4809164958617450258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_57
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef40e37495f7abd0800000000000000
+      internalID: -2618854640344608789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_58
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d8dbdf845b5e5b0800000000000000
+      internalID: -5339662458078524064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_59
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02455041de265ce20800000000000000
+      internalID: 3370208666539349024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_60
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392e2825819c47c30800000000000000
+      internalID: 4356327845874819731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_61
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa43fe3a0a8e5b20800000000000000
+      internalID: 3125086968052140704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_62
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f44d85cfc8576b50800000000000000
+      internalID: 6586330629448484088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_63
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131b7d0a07f95b4e0800000000000000
+      internalID: -1966490356193709775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_64
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b88dfce034f7810800000000000000
+      internalID: 1765203309848202122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_65
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e102a1a015ebf9e0800000000000000
+      internalID: -1586422584123981344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_66
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331f97c602277ca10800000000000000
+      internalID: 1929636448935997747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_67
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48f9bafe1a013650800000000000000
+      internalID: 6210756489292413005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_68
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deec956f3cf41c70800000000000000
+      internalID: 8941048509455199953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_69
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f1a0d30bba66260800000000000000
+      internalID: 7090543436768092003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_70
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacf0c1e0bab60470800000000000000
+      internalID: 8360575027124436140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_71
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed96f7256b0c65e0800000000000000
+      internalID: -1915143212449227281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_72
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e67746a67678e20800000000000000
+      internalID: 3352762154250366523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_73
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cf9e92015b40060800000000000000
+      internalID: 6918854008575229045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_74
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f98ac425ce40a30800000000000000
+      internalID: 4180726192324255493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_75
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837135299a5de51f0800000000000000
+      internalID: -1054170338477009096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_76
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3ac4260e3599be0800000000000000
+      internalID: -1470051580172786767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_77
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36a6476334a8acd0800000000000000
+      internalID: -2546605048595044805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_78
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f990f8bf3022190800000000000000
+      internalID: -7988818410030391548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_79
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb080a542faab350800000000000000
+      internalID: 6033327221480360927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_80
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7441b0ea86c6b9f00800000000000000
+      internalID: 1124611728811430983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_81
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801f6a4c3d4f240f0800000000000000
+      internalID: -1134074965769391864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_82
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231a7351908296ef0800000000000000
+      internalID: -114516296045453006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_83
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e7e311d81eed820800000000000000
+      internalID: 2945039202342829625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_84
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4818f775fe8f675f0800000000000000
+      internalID: -759145780316503676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_85
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f631cf7870df66700800000000000000
+      internalID: 533391814678025071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_86
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b544b176d6743e20800000000000000
+      internalID: 3329416687936357810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_87
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e596b34f835d6f10800000000000000
+      internalID: 2264558062418695652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_88
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fa49b1035dfc0e0800000000000000
+      internalID: -2247343286436712692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_89
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8294467095f569540800000000000000
+      internalID: 5014300071104366888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_90
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8f494a77bd5a670800000000000000
+      internalID: 8549480774541572276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_91
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f946482467dd600800000000000000
+      internalID: 494681562141728536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_92
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b68035225b0cb40800000000000000
+      internalID: 5458561907399617349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_93
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424ebef8d70accc70800000000000000
+      internalID: 8992739017097995300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_94
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bffecc966c3a630800000000000000
+      internalID: 3937208656964090721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_95
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e28bd3a03a6d4fb0800000000000000
+      internalID: -4661953282118548761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_96
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e8befa639098d70800000000000000
+      internalID: 9045771457034685988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_97
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f3f28264468eff0800000000000000
+      internalID: -6645146956382417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_98
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1515e1ad29e2a660800000000000000
+      internalID: 7395729920294720796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_99
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217964402c55c93e0800000000000000
+      internalID: -2045665838949296366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_100
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ccbcc9f0b5b46f0800000000000000
+      internalID: -699365194512741367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_101
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e1279c5cbaee5c0800000000000000
+      internalID: -4184218137804005863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_102
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b02865165362030800000000000000
+      internalID: 3469519255115008890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_103
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28dd086c75d324a0800000000000000
+      internalID: -6619212297006098390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_104
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ad4bac943c0c5c0800000000000000
+      internalID: -4197140131008423329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_105
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea29390a1dee4560800000000000000
+      internalID: 7300032742093826787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_106
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c53098915187ac10800000000000000
+      internalID: 2064761141624583624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_107
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db45027d3fda23540800000000000000
+      internalID: 4986239000250438845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_108
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece1450ea39a09a50800000000000000
+      internalID: 6525901930396655310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_109
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dfe5c9b9dee9860800000000000000
+      internalID: 7538724078863973778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_110
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cd6d2b0ee58fa80800000000000000
+      internalID: -8432885983085142938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_111
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66355d6ce9017030800000000000000
+      internalID: 3490582097240077932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_112
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc2380d9b3c34de0800000000000000
+      internalID: -1350020260446393091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_113
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813e42294bd7f9150800000000000000
+      internalID: 5881557852868633368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_114
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be46ea12f09b81170800000000000000
+      internalID: 8149467000367637739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_115
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fa48e4029697bf0800000000000000
+      internalID: -326113910530461932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_116
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c45648e0b24b7590800000000000000
+      internalID: -7675467812344277823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_117
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceb53ecf1f847a80800000000000000
+      internalID: -8469987632410673468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_118
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d10bf3af711f2f0800000000000000
+      internalID: -940944483565953701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_119
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5fefa17c5a69330800000000000000
+      internalID: 3717340817010914762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_120
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb4110e3c6894ab0800000000000000
+      internalID: -5023335733519103054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_121
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004dab93d1de14cd0800000000000000
+      internalID: -2575516802100833280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_122
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79449b4ab9c95ed80800000000000000
+      internalID: -8221993352397503337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_123
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367ef47a5c331e0a0800000000000000
+      internalID: -6854140233872578717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_124
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6173c112c111d4c0800000000000000
+      internalID: -4264607846923800210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_125
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9014fabb3bc74f0800000000000000
+      internalID: -829590612662482448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_126
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd6c89f2559e0c90800000000000000
+      internalID: -7201654570512257616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_127
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877740d5d0a38c120800000000000000
+      internalID: 2434259427663312760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_128
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940bc3e0b12162430800000000000000
+      internalID: 3757710846499532873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_129
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0387af958dabce0800000000000000
+      internalID: -1388559654124506922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_130
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca96402005bb037d0800000000000000
+      internalID: -2940644604367312468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_131
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d0d2f56883ce480800000000000000
+      internalID: -8868651416425788007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_132
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526f1fa46b0855c40800000000000000
+      internalID: 5500444040332703269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_133
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cf945d0b10665e0800000000000000
+      internalID: -1916842732395299705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Entity Sprite Sheet 1.1_134
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fc333c584ea1530800000000000000
+      internalID: 3826622096561393543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

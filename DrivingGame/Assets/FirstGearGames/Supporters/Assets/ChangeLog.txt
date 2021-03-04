@@ -1,0 +1,46 @@
+2020/09/02
+	- FlexNetworkTransform:
+		+ Fixed transforms not moving to a rotation if the change was very small; most commonly seen in 2D games. This was due to Unity incorrectly reporting that rotation values were matching.
+		+ Fixed extrapolation being applied to a transforms position even when a position update did not occur. This could be seen when rotating or scaling while not moving.
+
+2020/08/27
+	- FlexNetworkTransform:
+		+ Fixed data sending excessively when synchronizing rotation while using world space.
+
+2020/08/23
+	- FlexNetworkTransform:
+		+ Fixed position snapping being applied to scale.
+		+ Improvements to performance.
+
+2020/08/19    
+	- FlexNetworkTransform:
+        + Minor improvements to extrapolation.
+
+2020/08/09
+	- FastProximityChecker:
+		+ There is now a `Continuous` option, which is the default behavior. When enabled FastProximityChecker will regularly perform visibility checks. When false visibility checks will only occur on start, and when called manually. This change is useful if you know the object and other objects will always be in range on spawn, such as for a card or board game.
+
+	- FlexNetworkTransform:
+		+ Can now choose between Interval and FixedUpdate for when data is synchronized.
+		+ Supports reliable and unreliable synchronization methods. For best results use Unreliable with a UDP transport.
+		+ Removed ability to disable Enforce Results.
+		+ Added extrapolation to help predict movement when network traffic becomes unsteady.
+		+ Added UseLocalSpace. True by default to synchronize using localSpace values. False to use world space. Can be useful if you have a habbit of making child networked objects.
+		+ PreciseSynchronization is now false by default.
+
+	- ReactivePhysicsObject:
+		+ Can now choose between Interval and FixedUpdate for when data is synchronized.
+		+ Supports reliable and unreliable synchronization methods. For best results use Unreliable with a UDP transport.
+		+ Added PreciseSynchronization. True to synchronize data anytime it has changed. False to allow greater differences before synchronizing. Given that rigidbodies often shift continuously it's recommended to leave this false to not flood the network.
+		+ Added UseLocalSpace. True by default to synchronize using localSpace values. False to use world space. Can be useful if you have a habbit of making child networked objects.
+		+ Objects now snap into place when unable to meet synchronization goal after a duration. This effect often goes unnoticed as the difference is minuscule due to floating point imprecisions.
+		+ Added "AllowTeleport()" method. Calling the method clears the data to synchronize to, until another is received. This can be useful to call before teleporting an object locally, so it doesn't snap back to it's synchronized data. You would also want to move the same on the server.
+		+ Added "ReduceAggressiveness()" method. This method temporarily reduces how aggressive the gameObject will move towards the last received synchronization data. Ideally you will call this method every time your controller moves your object.
+
+2020/07/26
+	- Organized files. It's much more clear now what is demo code, and actual content.
+	- Fixed bug in FastProximityChecker that would sometimes cause objects to not unhide when in range.
+
+2020/07/12
+	- ReactivePhysicsObject now automatically determines if a controller or not. You must only set if object is 2D or 3D.
+	- FlexNetworkTransform and ReactivePhysicsObject can now synchronize using world space values rather than the default local space. Although not recommended, this can be useful if you need to child a networked object.
